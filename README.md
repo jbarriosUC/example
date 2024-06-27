@@ -21,4 +21,4 @@ Annely Zerpa estuvo aqui.
 
 #En esta seccion va a escribir jbarriosUC (Colocar en el commit "Updated by jbarriosUC")
 
-#En esta seccion va  a escribir Manuel (Colocar en el commit "Updated by Manuelñ")
+#En esta seccion va  a escribir Manuel (Colocar en el commit "Updated by Manuel")
