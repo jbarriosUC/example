@@ -15,3 +15,10 @@ Linea de tlisbeth
 Cambio de jbarriosUC----2
 Cambio de jbarriosUC----3
 Annely Zerpa estuvo aqui.
+#En esta seccion va a escribir Annely (Colocar en el commit "Updated by Annely")
+
+#En esta seccion va  a escribir Luis (Colocar en el commit "Updated by Luis")
+
+#En esta seccion va a escribir jbarriosUC (Colocar en el commit "Updated by jbarriosUC")
+
+#En esta seccion va  a escribir Manuel (Colocar en el commit "Updated by Manuelñ")
